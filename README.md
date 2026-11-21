@@ -55,3 +55,8 @@ Abrir `http://127.0.0.1:8000/`. Para comprobar la página 404, abrir una direcci
 - `docs/figma.md`: especificaciones para wireframes, componentes, mockups y prototipo.
 
 > La configuración `DEBUG=True` y la clave incluida son solo para ejecutar localmente. Configurar Django adecuadamente antes de cualquier publicación.
+
+## Diseño en Figma
+
+- Archivo de diseño: https://www.figma.com/design/fXwbT6LnpYrHISrMn8OQIC/Sin-t%C3%ADtulo
+- Prototipo: 
