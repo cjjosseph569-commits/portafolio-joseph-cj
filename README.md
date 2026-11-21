@@ -59,4 +59,4 @@ Abrir `http://127.0.0.1:8000/`. Para comprobar la página 404, abrir una direcci
 ## Diseño en Figma
 
 - Archivo de diseño: https://www.figma.com/design/fXwbT6LnpYrHISrMn8OQIC/Sin-t%C3%ADtulo
-- Prototipo: 
+- Prototipo: https://www.figma.com/proto/fXwbT6LnpYrHISrMn8OQIC/Sin-t%C3%ADtulo?node-id=10-29&page-id=10%3A28&starting-point-node-id=10%3A29&scaling=min-zoom&content-scaling=fixed
